@@ -2,5 +2,17 @@ Hi Team
 How are you 
 I am fine thank you
 hiii
-go to jenkins profile name down arrow - API Token - generate token - copy token and go to github file location- 
-go to settings - click on webhooks - paste your token id there - paste jeniksn url as well - ex : 12.343.33.3:8080/web-hook
+WEBHOOK PROcess
+
+1.click on jenkins profile down arrow = API token - genetare - copy token 
+
+2.go to Github repo 
+add webook - 
+paster your token in- Secret - 
+Payload url - http://3.109.214.163:8080/github-webhook/ 
+content type chosse - application/json 
+
+activate
+
+
+then automatically its build whenever changes happen in SC
