@@ -2,4 +2,5 @@ Hi Team
 How are you 
 I am fine thank you
 hiii
-looo
+go to jenkins profile name down arrow - API Token - generate token - copy token and go to github file location- 
+go to settings - click on webhooks - paste your token id there - paste jeniksn url as well - ex : 12.343.33.3:8080/web-hook
